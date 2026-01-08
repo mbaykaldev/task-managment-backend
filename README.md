@@ -1,4 +1,3 @@
-# task-managment-backend
 # Task Management Backend
 
 ## Kurulum
